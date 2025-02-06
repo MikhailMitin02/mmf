@@ -1,4 +1,4 @@
-# mmf
+# MIXIN
 echo "# mmf" >> README.md 
 git init 
 git add README.md 
